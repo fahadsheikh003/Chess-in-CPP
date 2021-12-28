@@ -1,1 +1,5 @@
-# Chess-in-C-only-king-and-2-bishops-
+# Chess-in-CPP
+
+# Programming Fundamental Project
+
+# Only moves of king and 2 bishops are implemented
